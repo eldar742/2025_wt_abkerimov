@@ -12,4 +12,6 @@
 <p align="center">
   <a href="https://cs.wikipedia.org/wiki/Hedy_Lamarrov%C3%A1">Zdroj: Wikipedie – Hedy Lamarr</a>
 </p>
-  ![250px-Hedy_lamarr_-_1940](https://github.com/user-attachments/assets/ff085b46-acef-4eeb-95c6-392d20ea28c0)
+
+
+![250px-Hedy_lamarr_-_1940](https://github.com/user-attachments/assets/adb10634-19da-4042-8b8a-3ba010192c4f)
