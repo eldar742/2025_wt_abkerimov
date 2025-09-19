@@ -14,5 +14,5 @@
 </p>
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Hedy_Lamarr_publicity_photo_for_The_Heavenly_Body_1944.jpg" alt="Hedy Lamarr" width="300">
+  ![250px-Hedy_lamarr_-_1940](https://github.com/user-attachments/assets/ff085b46-acef-4eeb-95c6-392d20ea28c0)
 </p>
