@@ -1,11 +1,11 @@
 # Hedy Lamarr
 
-**Hedy Lamarrová** byla herečka a vynálezkyně, která byla jednou z nejkrásnějších hereček své doby.
+![Hedy Lamarr](https://upload.wikimedia.org/wikipedia/commons/8/88/Hedy_Lamarr_publicity_photo_for_The_Heavenly_Body_1944.jpg)
 
-V roce **1941** vynalezla systém pro tajnou komunikaci – princip tzv. **rozprostřeného spektra s přeskakováním kmitočtů** (*Frequency Hopping Spread Spectrum; FHSS*).
+- <p align="center">
+  <strong>Hedy Lamarrová</strong> byla herečka a vynálezkyně, která byla jednou z nejkrásnějších hereček své doby.  
+  V roce <strong>1941</strong> vynalezla systém pro tajnou komunikaci – princip tzv. <em>rozprostřeného spektra s přeskakováním kmitočtů</em> (Frequency Hopping Spread Spectrum; FHSS).  
+  V průběhu <strong>2. světové války</strong> také kromě vynálezů pomáhala propagovat <strong>válečné dluhopisy</strong> americké armády.
+  </p>
 
-V průběhu **2. světové války** také kromě vynálezů pomáhala propagovat **válečné dluhopisy** americké armády.
-
-🔗 [Více na Wikipedii (cs)](https://cs.wikipedia.org/wiki/Hedy_Lamarrov%C3%A1)
-
-![Hedy Lamarr]("C:\Users\eldar.abkerimov.s\Downloads\lamarr.jpg")
+🔗 [Zdroj (cs)](https://cs.wikipedia.org/wiki/Hedy_Lamarrov%C3%A1)
