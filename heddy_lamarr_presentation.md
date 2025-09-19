@@ -14,4 +14,4 @@
 </p>
 
 
-![250px-Hedy_lamarr_-_1940](https://github.com/user-attachments/assets/adb10634-19da-4042-8b8a-3ba010192c4f)
+![ghows-IA-3fe7d731-14b1-4baa-83f7-fcfbf2a4e1c1-c3635286](https://github.com/user-attachments/assets/cc9defcc-4c62-4d4e-8731-e751840c13dd)
